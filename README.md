@@ -14,8 +14,12 @@ A simple example is performed using the TCGA-PANCAN data, which can be downloade
 
 Please use the following citation:
 @article{hozumi2022ccp,
+
   title={Ccp: Correlated clustering and projection for dimensionality reduction},
+  
   author={Hozumi, Yuta and Wang, Rui and Wei, Guo-Wei},
+  
   journal={arXiv preprint arXiv:2206.04189},
+  
   year={2022}
 }
